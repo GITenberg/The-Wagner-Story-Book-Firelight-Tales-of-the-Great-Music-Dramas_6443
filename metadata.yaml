@@ -1,0 +1,28 @@
+_repo: The-Wagner-Story-Book-Firelight-Tales-of-the-Great-Music-Dramas_6443
+creator:
+  author:
+    agent_name: Frost, William Henry
+    birthdate: 1863
+    deathdate: 1902
+    gutenberg_agent_id: '8275'
+    url: http://www.gutenberg.org/2009/agents/8275
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6443'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Operas -- Stories, plots, etc.'
+- !lcsh 'Wagner, Richard, 1813-1883 -- Stories, plots, etc.'
+- !lcc 'ML'
+tableOfContents: The stolen treasure -- The daughter of the god -- The hero who knew
+  no fear -- The end of the ring -- The knight of the swan -- The prize of a song
+  -- The blood-red sail -- The love potion -- The minstrel knight -- The King of the
+  Grail -- The ashes.
+title: 'The Wagner Story Book: Firelight Tales of the Great Music Dramas'
+url: http://www.gutenberg.org/ebooks/6443

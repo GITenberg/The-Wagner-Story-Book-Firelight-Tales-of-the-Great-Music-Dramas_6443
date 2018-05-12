@@ -1,4 +1,8 @@
 _repo: The-Wagner-Story-Book-Firelight-Tales-of-the-Great-Music-Dramas_6443
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Frost, William Henry
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '8275'
     url: http://www.gutenberg.org/2009/agents/8275
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6443#The-Wagner-Story-Book-Firelight-Tales-of-the-Great-Music-Dramas
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
 identifiers:
